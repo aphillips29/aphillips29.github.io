@@ -1,6 +1,4 @@
 
-##Guessing Game
-
 ```mermaid
 flowchart TD
   Start([Start]) --> B[Generate Random Number 1 to 100]
